@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Optimizer",
+  "description": "Automated job application system with resume scanning, ATS scoring, and automated tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
